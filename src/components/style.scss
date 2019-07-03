@@ -1,0 +1,44 @@
+a {
+  cursor: pointer;
+}
+
+.price-list {
+  .category-ionicion,
+  .ios-create-outline,
+  .ios-close {
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    fill: #fff
+  }
+
+  .ios-plane {
+    background: #007bff
+  }
+
+  .ios-create-outline {
+    background: #28a745;
+  }
+
+  .ios-close {
+    background: #dc3545;
+  }
+}
+
+.view-tab {
+  .ios-paper, 
+  .ios-pie {
+    width: 24px;
+    height: 24px;
+    fill: #007bff;
+  }
+}
+
+.create-btn {
+  .ios-add-circle {
+    width: 24px;
+    height: 24px;
+    fill: #fff;
+    margin-top: -2px;
+  }
+}
